@@ -1,0 +1,11 @@
+name: OrbitalBal
+version: 1.0.0
+main: phss.orbitalbal.OrbitalBal
+author: PHSS
+commands:
+  bal:
+  earn:
+  give:
+  deposit:
+  remove:
+  setbal:

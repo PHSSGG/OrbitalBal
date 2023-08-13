@@ -1,0 +1,11 @@
+Database:
+  hostname: "localhost"
+  port: 3306
+  database: "orbitalbal"
+  username: "root"
+  password: ""
+
+Config:
+  earnCooldown: 60 # in seconds
+  minEarnAmount: 1
+  maxEarnAmount: 5
